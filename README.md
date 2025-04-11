@@ -1,1 +1,1 @@
-# Spring-Study-Minyong
+# [스프링 부트3 자바 백엔드 개발 입문] 완독 스터디
